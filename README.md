@@ -1,6 +1,6 @@
 # osm slides
 
-Presentación para la conferencia latinoamericana de OpenStreetMap 2017 (OSMLATAM)
+Presentación para la conferencia latinoamericana de OpenStreetMap 2017 [OSMLATAM](http://state.osmlatam.org)
 
 
 Presentación realizada con:
